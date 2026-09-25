@@ -1,0 +1,2 @@
+*.pth filter=lfs diff=lfs merge=lfs -text
+Parm's[[:space:]]ML[[:space:]]Models/data/metadata.csv filter=lfs diff=lfs merge=lfs -text
